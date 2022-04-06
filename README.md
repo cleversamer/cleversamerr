@@ -25,23 +25,23 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
-	<a href="mailto:thedev.samer@gmail.com" style="display: block">
-		<img width="26px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail"/>
+	<a href="mailto:thedev.samer@gmail.com" width="26px" style="padding: 5px">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail"/>
 	</a>
-	<a href="https://github.com/ssadawi">
-		<img width="26px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
+	<a href="https://github.com/ssadawi" width="26px" style="padding: 5px">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
 	</a>
-	<a href="https://wa.me/00972597367603">
-		<img width="26px"  style="padding: 5px" src="https://seeklogo.com/images/W/whatsapp-icon-logo-6E793ACECD-seeklogo.com.png" alt="Whatsapp"/>
+	<a href="https://wa.me/00972597367603" width="26px"  style="padding: 5px">
+		<img src="https://seeklogo.com/images/W/whatsapp-icon-logo-6E793ACECD-seeklogo.com.png" alt="Whatsapp"/>
 	</a>
-	<a href="https://www.linkedin.com/in/samer-a-35a757230/">
-		<img width="26px"  style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
+	<a href="https://www.linkedin.com/in/samer-a-35a757230/" width="26px"  style="padding: 5px">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
 	</a>
-	<a href="https://www.facebook.com/samer.187">
-		<img width="26px"  style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook"/>
+	<a href="https://www.facebook.com/samer.187" width="26px"  style="padding: 5px">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook"/>
 	</a>
-	<a href="https://www.instagram.com/samer_sadawi/">
-		<img width="26px"  style="padding: 5px" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" alt="Instagram"/>
+	<a href="https://www.instagram.com/samer_sadawi/" width="26px"  style="padding: 5px">
+		<img src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" alt="Instagram"/>
 	</a>
 </p>
 
