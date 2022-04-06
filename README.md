@@ -3,7 +3,7 @@
   <img src="http://readme-typing-svg.herokuapp.com?size=24&duration=4000&lines=Full+Stack+Developer;Web+Designer" />
 </p>
 
-<h2 align="center">&</h2>
+<p align="center" style="font-size: 18px;">&</p>
 
 <p align="center">
   <img src="http://readme-typing-svg.herokuapp.com?size=24&duration=4000&lines=Web+Designer;Full+Stack+Developer" />
