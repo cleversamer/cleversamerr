@@ -7,11 +7,11 @@
 <br>
 
 
-## :sassy_man:  About me
+## :sassy_man:  About Me
 - :school: I'm a `Sophomore` Computer Science Student at IUG
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I'm currently learning: `Computer Science` and `Software Engineering`
-- :thinking: I'm currently open for: `Web Design` and `Web Development` job opportunities.
+- :thinking: I'm currently open for: `Web Design` and `Web Development` Job Ppportunities.
 - :nerd_face: Always `Learning New Things`
 
 <br>
@@ -23,7 +23,7 @@
 <br>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect With Me
 <p align="center">
 	<a href="mailto:thedev.samer@gmail.com" target="__blank" style="diplay: inline-block; padding-right: 10px;">
 		<img width="26px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail"/>
@@ -50,7 +50,7 @@
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+### 👉 Programming Languages
 
 <p align="center"> 
   &emsp;
@@ -168,7 +168,7 @@
 
 <br/>
 
-## :trophy: Git profile Trophies
+## :trophy: GitHub Profile Trophies
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ssadawi&layout=compact&theme=algolia" alt="ssadawi" /> </p>
 
