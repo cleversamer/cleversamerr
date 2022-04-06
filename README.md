@@ -139,7 +139,7 @@
  
 <p align="center">
   &emsp;
-    <img src="https://www.svgrepo.com/download/303144/windows-10-logo.svg" />
+    <img width="26px" src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" />
 </p>
 
 <br/>
