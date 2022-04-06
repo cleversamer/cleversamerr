@@ -16,16 +16,6 @@
 
 <br>
 
-## Connect with me:
-
-[![website](./img/twitter-light.svg)](https://twitter.com/ssadawi__#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/ssadawi__#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/samer-a-35a757230/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/samer-a-35a757230/#gh-dark-mode-only)
-&nbsp;&nbsp;
-
-
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ssadawi&theme=algolia" alt="ssadawi" /></p>
 
@@ -36,22 +26,22 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
 	<a href="mailto:thedev.samer@gmail.com">
-		<img style="width: 26px; padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail"/>
+		<img width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail"/>
 	</a>
 	<a href="https://github.com/ssadawi">
-		<img style="width: 26px; padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
+		<img width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
 	</a>
 	<a href="https://wa.me/00972597367603">
-		<img style="width: 26px; padding-right:10px;" src="https://seeklogo.com/images/W/whatsapp-icon-logo-6E793ACECD-seeklogo.com.png" alt="Whatsapp"/>
+		<img width="26px"  style="padding-right:10px;" src="https://seeklogo.com/images/W/whatsapp-icon-logo-6E793ACECD-seeklogo.com.png" alt="Whatsapp"/>
 	</a>
 	<a href="https://www.linkedin.com/in/samer-a-35a757230/">
-		<img style="width: 26px; padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
+		<img width="26px"  style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
 	</a>
 	<a href="https://www.facebook.com/samer.187">
-		<img style="width: 26px; padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook"/>
+		<img width="26px"  style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook"/>
 	</a>
 	<a href="https://www.instagram.com/samer_sadawi/">
-		<img style="width: 26px; padding-right:10px;" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" alt="Instagram"/>
+		<img width="26px"  style="padding-right:10px;" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" alt="Instagram"/>
 	</a>
 </p>
 
