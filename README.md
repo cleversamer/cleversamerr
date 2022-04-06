@@ -11,7 +11,7 @@
 - :school: I'm a `Sophomore` Computer Science Student
 - :technologist: I ❤️ Building Software To Solve `Problems`
 - :student: I'm Currently Learning `Computer Science` & `Software Engineering`
-- :thinking: I'm Currently Open For `Web Design` & `Web Development` Job Ppportunities
+- :thinking: I'm Currently Open For `Web Design` & `Web Development` Job Opportunities
 - :nerd_face: Always `Learning New Things`
 
 <br>
