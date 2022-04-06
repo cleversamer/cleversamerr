@@ -31,7 +31,7 @@
 	<a href="https://github.com/ssadawi" target="__blank" style="diplay: inline-block; padding-right: 10px;">
 		<img width="26px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
 	</a>
-	<a href="https://wa.me/00972597367603" target="__blank" style="diplay: inline-block; padding-right: 10px;">
+	<a href="https://wa.me/972597367603" target="__blank" style="diplay: inline-block; padding-right: 10px;">
 		<img width="26px"  style="padding: 5px" src="https://seeklogo.com/images/W/whatsapp-icon-logo-6E793ACECD-seeklogo.com.png" alt="Whatsapp"/>
 	</a>
 	<a href="https://www.linkedin.com/in/samer-a-35a757230/" target="__blank" style="diplay: inline-block; padding-right: 10px;">
