@@ -25,22 +25,22 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
-	<a href="mailto:thedev.samer@gmail.com" style="diplay: inline-block; padding-right: 10px;">
+	<a href="mailto:thedev.samer@gmail.com" target="__blank" style="diplay: inline-block; padding-right: 10px;">
 		<img width="26px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail"/>
 	</a>
-	<a href="https://github.com/ssadawi" style="diplay: inline-block; padding-right: 10px;">
+	<a href="https://github.com/ssadawi" target="__blank" style="diplay: inline-block; padding-right: 10px;">
 		<img width="26px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
 	</a>
-	<a href="https://wa.me/00972597367603" style="diplay: inline-block; padding-right: 10px;">
+	<a href="https://wa.me/00972597367603" target="__blank" style="diplay: inline-block; padding-right: 10px;">
 		<img width="26px"  style="padding: 5px" src="https://seeklogo.com/images/W/whatsapp-icon-logo-6E793ACECD-seeklogo.com.png" alt="Whatsapp"/>
 	</a>
-	<a href="https://www.linkedin.com/in/samer-a-35a757230/" style="diplay: inline-block; padding-right: 10px;">
+	<a href="https://www.linkedin.com/in/samer-a-35a757230/" target="__blank" style="diplay: inline-block; padding-right: 10px;">
 		<img width="26px"  style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
 	</a>
-	<a href="https://www.facebook.com/samer.187" style="diplay: inline-block; padding-right: 10px;">
+	<a href="https://www.facebook.com/samer.187" target="__blank" style="diplay: inline-block; padding-right: 10px;">
 		<img width="26px"  style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook"/>
 	</a>
-	<a href="https://www.instagram.com/samer_sadawi/" style="diplay: inline-block; padding-right: 10px;">
+	<a href="https://www.instagram.com/samer_sadawi/" target="__blank" style="diplay: inline-block; padding-right: 10px;">
 		<img width="26px"  style="padding: 5px" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" alt="Instagram"/>
 	</a>
 </p>
@@ -130,9 +130,9 @@
  
 <p align="center">
   &emsp;
-    <img alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img width="26px" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   &emsp;
-    <img alt="JetBrain" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
+    <img width="26px" alt="JetBrain" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
 </p>
 
  ### 👉 Operating Systems
