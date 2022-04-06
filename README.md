@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Samer A. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&lines=Computer+Science+Student;Full+Stack+Developer;Web+Designer)](https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&lines=Computer+Science+Student;Full+Stack+Developer;Web+Designer" />
 </p>
 
 
