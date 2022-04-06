@@ -151,10 +151,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-      <img style="background-color: #eee" alt="ssadawi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ssadawi&show_icons=true&count_private=false&theme=algolia" height="192px"/>
+      <img style="background-color: #eee" alt="ssadawi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ssadawi&show_icons=true&count_private=false" height="192px"/>
   <br/>
     &nbsp;
-      <img style="background-color: #eee" src="https://github-readme-stats.vercel.app/api/top-langs?username=ssadawi&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ssadawi" height="192px"/>
+      <img style="background-color: #eee" src="https://github-readme-stats.vercel.app/api/top-langs?username=ssadawi&langs_count=10&show_icons=true&locale=en&layout=compact" alt="ssadawi" height="192px"/>
     <br/>
   </p>
 
