@@ -25,7 +25,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
-	<a href="mailto:thedev.samer@gmail.com">
+	<a href="mailto:thedev.samer@gmail.com" style="display: block">
 		<img width="26px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail"/>
 	</a>
 	<a href="https://github.com/ssadawi">
