@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Samer A. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Samer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <img src="http://readme-typing-svg.herokuapp.com?size=24&duration=4000&lines=Full+Stack+Developer;Web+Designer" />
   <img src="http://readme-typing-svg.herokuapp.com?size=24&duration=4000&lines=Web+Designer;Full+Stack+Developer" />
