@@ -8,10 +8,10 @@
 
 
 ## :sassy_man:  About Me
-- :school: I'm a `Sophomore` Computer Science Student at IUG
-- :technologist: I love using Software as a solution for every `Problem`
-- :student: I'm currently learning: `Computer Science` and `Software Engineering`
-- :thinking: I'm currently open for: `Web Design` and `Web Development` Job Ppportunities.
+- :school: I'm a `Sophomore` Computer Science Student
+- :technologist: I ❤️ Building Software To Solve `Problems`
+- :student: I'm Currently Learning `Computer Science` & `Software Engineering`
+- :thinking: I'm Currently Open For `Web Design` & `Web Development` Job Ppportunities
 - :nerd_face: Always `Learning New Things`
 
 <br>
