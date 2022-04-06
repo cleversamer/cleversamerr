@@ -10,10 +10,9 @@
 ## :sassy_man:  About me
 - :school: I'm a `Sophomore` Computer Science Student at IUG
 - :technologist: I love using Software as a solution for every `Problem`
-- :computer: I'm a competitive programmer mainly at `Codeforces`
 - :student: I'm currently learning: `Computer Science` and `Software Engineering`
 - :thinking: I'm currently open for: `Web Design` and `Web Development` job opportunities.
-- :nerd_face: Always and always `learning new things`
+- :nerd_face: Always `Learning New Things`
 
 <br>
 
@@ -74,7 +73,7 @@
 ### 👉 Frontend Development
 <p align="center"> 
   &emsp;
-  <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+  <img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
   &emsp;
   <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
   &emsp;
