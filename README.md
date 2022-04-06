@@ -139,7 +139,7 @@
  
 <p align="center">
   &emsp;
-    <img src="https://www.svgrepo.com/download/303144/windows-10-logo.svg>
+    <img src="https://www.svgrepo.com/download/303144/windows-10-logo.svg" />
 </p>
 
 <br/>
@@ -151,7 +151,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-      <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ssadawi&show_icons=true&count_private=false&theme=algolia" height="192px"/>
+      <img alt="ssadawi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ssadawi&show_icons=true&count_private=false&theme=algolia" height="192px"/>
   <br/>
     &nbsp;
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ssadawi&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ssadawi" height="192px"/>
