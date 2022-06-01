@@ -17,7 +17,7 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ssadawi&theme=algolia" alt="ssadawi" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cleversamerr&theme=algolia" alt="cleversamerr" /></p>
 
 <br>
 <br>
@@ -28,7 +28,7 @@
 	<a href="mailto:thedev.samer@gmail.com" target="__blank" style="diplay: inline-block; padding-right: 10px;">
 		<img width="26px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail"/>
 	</a>
-	<a href="https://github.com/ssadawi" target="__blank" style="diplay: inline-block; padding-right: 10px;">
+	<a href="https://github.com/cleversamerr" target="__blank" style="diplay: inline-block; padding-right: 10px;">
 		<img width="26px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
 	</a>
 	<a href="https://wa.me/972597367603" target="__blank" style="diplay: inline-block; padding-right: 10px;">
@@ -151,10 +151,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-      <img style="background-color: #eee" alt="ssadawi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ssadawi&show_icons=true&count_private=false" height="192px"/>
+      <img style="background-color: #eee" alt="cleversamerr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cleversamerr&show_icons=true&count_private=false" height="192px"/>
   <br/>
     &nbsp;
-      <img style="background-color: #eee" src="https://github-readme-stats.vercel.app/api/top-langs?username=ssadawi&langs_count=10&show_icons=true&locale=en&layout=compact" alt="ssadawi" height="192px"/>
+      <img style="background-color: #eee" src="https://github-readme-stats.vercel.app/api/top-langs?username=cleversamerr&langs_count=10&show_icons=true&locale=en&layout=compact" alt="cleversamerr" height="192px"/>
     <br/>
   </p>
 
@@ -162,7 +162,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <img alt="ssadawi" src="https://activity-graph.herokuapp.com/graph?username=ssadawi&custom_title=Samer%27s%20Contribution%20Graph&theme=react-dark" />
+   <img alt="cleversamerr" src="https://activity-graph.herokuapp.com/graph?username=cleversamerr&custom_title=Samer%27s%20Contribution%20Graph&theme=react-dark" />
   <br/>
 
 
@@ -170,6 +170,6 @@
 
 ## :trophy: GitHub Profile Trophies
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ssadawi&layout=compact&theme=algolia" alt="ssadawi" /> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=cleversamerr&layout=compact&theme=algolia" alt="cleversamerr" /> </p>
 
 -----
