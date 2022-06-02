@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Samer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p style="width: 100%; display: flex; justify-content: space-between;">
-  <img src="http://readme-typing-svg.herokuapp.com?size=24&duration=4000&lines=Full-Stack+Developer;Web+%26+Mobile+Designer" />
-  <img src="http://readme-typing-svg.herokuapp.com?size=24&duration=4000&lines=Web+%26+Mobile+Designer;Full-Stack+Developer" />
+  <img src="http://readme-typing-svg.herokuapp.com?size=24&duration=4000&lines=Full-Stack+Developer" />
 </p>
 
 <br>
@@ -35,10 +34,10 @@
 	<a href="https://www.linkedin.com/in/samer-a-35a757230/" target="__blank" style="diplay: inline-block; padding-right: 10px;">
 		<img width="26px"  style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
 	</a>
-	<a href="https://www.facebook.com/samer.187" target="__blank" style="diplay: inline-block; padding-right: 10px;">
+	<a href="https://www.facebook.com/cleversamerr" target="__blank" style="diplay: inline-block; padding-right: 10px;">
 		<img width="26px"  style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook"/>
 	</a>
-	<a href="https://www.instagram.com/samer_sadawi/" target="__blank" style="diplay: inline-block; padding-right: 10px;">
+	<a href="https://www.instagram.com/cleversamerr/" target="__blank" style="diplay: inline-block; padding-right: 10px;">
 		<img width="26px"  style="padding: 5px" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" alt="Instagram"/>
 	</a>
 </p>
@@ -53,8 +52,6 @@
 <p align="center"> 
   &emsp;
      <img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-  &emsp;
-     <img alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
   &emsp;
     <img alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
   &emsp;
@@ -77,24 +74,12 @@
   <img alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
   &emsp;
   <img alt="MaterialUI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" style="padding-right:10px;" />
-  &emsp;
-  <img alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
-  &emsp;
-  <img alt="Strapi" width="26px" src="https://cdn.worldvectorlogo.com/logos/strapi-2.svg" style="padding-right:10px;" />
-  &emsp;
-  <img alt="Sanity.io" width="26px" src="https://www.svgrepo.com/show/354309/sanity.svg" style="padding-right:10px;" />
-  &emsp;
-  <img alt="Jamstack" width="26px" src="https://cdn.worldvectorlogo.com/logos/jamstack.svg" style="padding-right:10px;" />
 </p>
 
 ### 👉 Backend Development
 <p align="center"> 
     &emsp;
     <img alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-    &emsp; 
-    <img alt="Nest.js" width="26px" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" style="padding-right:10px;" />
-    &emsp;   
-    <img alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
     &emsp;   
     <img alt="RESTful API" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-web-app-development/rest-api.svg" style="padding-right:10px;" />
     &emsp; 
