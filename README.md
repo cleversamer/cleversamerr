@@ -88,10 +88,6 @@
     <img alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
     &emsp;
     <img alt="Firebase" width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="padding-right:10px;" />
-    &emsp;
-    <img alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
-    &emsp;
-    <img alt="Kubernetes" width="26px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" style="padding-right:10px;" />
 </p>
 
  ### 👉 Software & Tools
@@ -105,8 +101,6 @@
   <img alt="Netlify" width="26px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" style="padding-right:10px;" />
   &emsp;
   <img alt="Heroku" width="26px" src="https://www.svgrepo.com/show/303683/heroku-logo.svg" style="padding-right:10px;" />
-  &emsp;
-  <img alt="AWS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" style="padding-right:10px;" />
 </p>
 
  ### 👉 IDEs
