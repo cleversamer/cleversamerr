@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Samer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <img src="http://readme-typing-svg.herokuapp.com?lines=Full+MERN+Stack+Developer" />
+<p align="center" text-align="center">
+  <img margin="0 auto" src="http://readme-typing-svg.herokuapp.com?lines=Full+MERN+Stack+Developer" />
 </p>
 
 <br>
