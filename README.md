@@ -7,6 +7,7 @@
 
 
 ## :sassy_man:  About Me
+- :website: Visit me on `https://cleversamer.com` to see more
 - :school: I'm a `Sophomore` Computer Science Student
 - :technologist: I ❤️ Building Software To Solve `Problems`
 - :student: I'm Currently Learning `Computer Science` & `Software Engineering`
