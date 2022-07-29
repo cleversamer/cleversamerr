@@ -22,27 +22,22 @@
 <br>
 
 <p align="center">
-	&emsp;
 	<a href="mailto:thedev.samer@gmail.com" target="__blank" style="diplay: inline-block; padding-right: 10px;">
 		<img width="26px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail"/>
 	</a>
 	
-	&emsp;
 	<a href="https://github.com/cleversamerr" target="__blank" style="diplay: inline-block; padding-right: 10px;">
 		<img width="26px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
 	</a>
 	
-	&emsp;
 	<a href="https://wa.me/972597367603" target="__blank" style="diplay: inline-block; padding-right: 10px;">
 		<img width="26px"  style="padding: 5px" src="https://seeklogo.com/images/W/whatsapp-icon-logo-6E793ACECD-seeklogo.com.png" alt="Whatsapp"/>
 	</a>
 	
-	&emsp;
 	<a href="https://www.linkedin.com/in/cleversamerr/" target="__blank" style="diplay: inline-block; padding-right: 10px;">
 		<img width="26px"  style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
 	</a>
 	
-	&emsp;
 	<a href="https://www.facebook.com/cleversamerr" target="__blank" style="diplay: inline-block; padding-right: 10px;">
 		<img width="26px"  style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook"/>
 	</a>
