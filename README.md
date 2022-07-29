@@ -7,7 +7,7 @@
 
 
 ## :sassy_man:  About Me
-- :school: I'm a `Senior` Software Engineer
+- :code: I'm a `Senior` Software Engineer
 - :technologist: I ❤️ Building Software To Solve `Problems`
 - :student: I'm Currently Learning `Computer Science` & `Software Engineering`
 - :thinking: I'm Currently Open For `Web Development` Job Opportunities
