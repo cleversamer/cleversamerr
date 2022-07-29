@@ -12,7 +12,7 @@
 - 👨‍🎓: I'm Currently Learning `Computer Science` & `Software Engineering`.
 - 🤔: I'm Currently Open For `Web Development` Job Opportunities.
 - 🤓: Always `Learning New Things`.
-- 💻: For more about me, visit my <a href="https://cleversamer.web.app/" target="_blank">portfolio website.</a>
+- 💻: For more about me, visit my <a href="https://cleversamer.web.app/" target="__blank">portfolio website.</a>
 
 <br>
 
