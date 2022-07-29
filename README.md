@@ -6,12 +6,13 @@
 <br>
 
 
-## :sassy_man:  About Me
-- :computer: I'm a `Senior` Software Engineer
-- :technologist: I ❤️ Building Software To Solve `Problems`
-- :student: I'm Currently Learning `Computer Science` & `Software Engineering`
-- :thinking: I'm Currently Open For `Web Development` Job Opportunities
-- :nerd_face: Always `Learning New Things`
+## 💁‍♂️:  About Me
+- 💻: I'm a `Senior` Software Engineer.
+- 👨‍💻: I ❤️ Building Software To Solve `Problems`.
+- 👨‍🎓: I'm Currently Learning `Computer Science` & `Software Engineering`.
+- 🤔: I'm Currently Open For `Web Development` Job Opportunities.
+- 🤓: Always `Learning New Things`.
+- 💻: For more about me, visit my <a href="https://cleversamer.web.app/" target="_blank">portfolio website.</a>
 
 <br>
 
