@@ -41,7 +41,7 @@
   &emsp;
   <img alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
   &emsp;
-  <img alt="Redux" width="26px" src="https://img.icons8.com/ios/452/redux.png" style="padding-right:10px;" />
+  <img alt="Redux" width="26px" src="https://img.icons8.com/color/344/redux.png" style="padding-right:10px;" />
 </p>
 
 ### 👉 Backend Development
