@@ -7,7 +7,7 @@
 
 
 ## :sassy_man:  About Me
-- :code: I'm a `Senior` Software Engineer
+- :computer: I'm a `Senior` Software Engineer
 - :technologist: I ❤️ Building Software To Solve `Problems`
 - :student: I'm Currently Learning `Computer Science` & `Software Engineering`
 - :thinking: I'm Currently Open For `Web Development` Job Opportunities
@@ -22,23 +22,29 @@
 <br>
 
 <p align="center" style="display: flex; gap: 30px">
+	&emsp;
 	<a href="mailto:thedev.samer@gmail.com" target="__blank" style="diplay: inline-block; padding-right: 10px;">
 		<img width="26px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail"/>
 	</a>
+	
+	&emsp;
 	<a href="https://github.com/cleversamerr" target="__blank" style="diplay: inline-block; padding-right: 10px;">
 		<img width="26px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
 	</a>
+	
+	&emsp;
 	<a href="https://wa.me/972597367603" target="__blank" style="diplay: inline-block; padding-right: 10px;">
 		<img width="26px"  style="padding: 5px" src="https://seeklogo.com/images/W/whatsapp-icon-logo-6E793ACECD-seeklogo.com.png" alt="Whatsapp"/>
 	</a>
+	
+	&emsp;
 	<a href="https://www.linkedin.com/in/cleversamerr/" target="__blank" style="diplay: inline-block; padding-right: 10px;">
 		<img width="26px"  style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
 	</a>
+	
+	&emsp;
 	<a href="https://www.facebook.com/cleversamerr" target="__blank" style="diplay: inline-block; padding-right: 10px;">
 		<img width="26px"  style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook"/>
-	</a>
-	<a href="https://www.instagram.com/cleversamerr/" target="__blank" style="diplay: inline-block; padding-right: 10px;">
-		<img width="26px"  style="padding: 5px" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" alt="Instagram"/>
 	</a>
 </p>
 
@@ -52,10 +58,6 @@
 <p align="center"> 
   &emsp;
      <img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-  &emsp;
-    <img alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
-  &emsp;
-    <img alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 </p>
 
 ### 👉 Frontend Development
@@ -65,27 +67,19 @@
   &emsp;
   <img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
   &emsp;
-  <img alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
-  &emsp;
-  <img alt="Tailwind CSS" width="26px" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" style="padding-right:10px;" />
-  &emsp;
   <img alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
   &emsp;
   <img alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
   &emsp;
-  <img alt="MaterialUI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" style="padding-right:10px;" />
+  <img alt="Redux" width="26px" src="https://img.icons8.com/ios/452/redux.png" style="padding-right:10px;" />
 </p>
 
 ### 👉 Backend Development
 <p align="center"> 
     &emsp;
     <img alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-    &emsp;   
-    <img alt="RESTful API" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-web-app-development/rest-api.svg" style="padding-right:10px;" />
     &emsp; 
     <img alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-    &emsp;
-    <img alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
     &emsp;
     <img alt="Firebase" width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="padding-right:10px;" />
 </p>
@@ -108,8 +102,6 @@
 <p align="center">
   &emsp;
     <img width="26px" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  &emsp;
-    <img width="26px" alt="JetBrain" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
 </p>
 
  ### 👉 Operating Systems
