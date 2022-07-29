@@ -21,10 +21,10 @@
 <br>
 <br>
 
-<p>
+<p style="width: 100%">
   <a
     href="mailto:thedev.samer@gmail.com"
-    target="__blank"
+    target="_blank"
     style="display: inline-block; padding-right: 10px"
   >
     <img
@@ -37,7 +37,7 @@
 
   <a
     href="https://github.com/cleversamerr"
-    target="__blank"
+    target="_blank"
     style="display: inline-block; padding-right: 10px"
   >
     <img
@@ -50,7 +50,7 @@
 
   <a
     href="https://wa.me/972597367603"
-    target="__blank"
+    target="_blank"
     style="display: inline-block; padding-right: 10px"
   >
     <img
@@ -63,7 +63,7 @@
 
   <a
     href="https://www.linkedin.com/in/cleversamerr/"
-    target="__blank"
+    target="_blank"
     style="display: inline-block; padding-right: 10px"
   >
     <img
@@ -76,7 +76,7 @@
 
   <a
     href="https://www.facebook.com/cleversamerr"
-    target="__blank"
+    target="_blank"
     style="display: inline-block; padding-right: 10px"
   >
     <img
@@ -87,10 +87,6 @@
     />
   </a>
 </p>
-
-
-
-
 
 ## 🛠️ My Skills
 
