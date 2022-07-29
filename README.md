@@ -78,7 +78,7 @@
  
 <p align="center">
   &emsp;
-    <img width="26px" src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" />
+    <img width="26px" alt="Windows" src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" />
 </p>
 
 <br/>
