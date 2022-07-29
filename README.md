@@ -21,7 +21,7 @@
 <br>
 <br>
 
-<p align="center">
+<p align="center" style="display: flex; gap: 10px">
 	<a href="mailto:thedev.samer@gmail.com" target="__blank" style="diplay: inline-block; padding-right: 10px;">
 		<img width="26px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail"/>
 	</a>
