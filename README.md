@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Samer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p style="display: flex; justify-content: center; padding-left: 10%;">
-  <img style="width: 100%; display: inline-block; padding-left: 10%;" src="http://readme-typing-svg.herokuapp.com?lines=Welcome+To+My+GitHub+Page+🤩" />
+  <img style="width: 100%; display: inline-block !important; padding-left: 10% !important;" src="http://readme-typing-svg.herokuapp.com?lines=Welcome+To+My+GitHub+Page+🤩" />
 </p>
 
 <br>
