@@ -58,7 +58,7 @@
 ### 👉 Mobile Development
 <p align="center"> 
     &emsp;
-    <img alt="React Native" width="26px" src="https://raw.githubusercontent.com/cleversamerr/cleversamerr/facddfcb076d7e683697861d0bce947b9dfe273d/img/react-native.svg" style="padding-right:10px; font-size: large;" />
+    <img alt="React Native" width="26px" src="https://raw.githubusercontent.com/cleversamerr/cleversamerr/main/img/react-native.png" style="padding-right:10px; font-size: large;" />
 </p>
 
  ### 👉 Software & Tools
