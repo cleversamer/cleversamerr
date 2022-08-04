@@ -7,10 +7,9 @@
 
 
 ## 💁‍♂️:  About Me
-- 💻: I'm a `Senior` Software Engineer.
-- 👨‍💻: I ❤️ Building Software To Solve `Problems`.
-- 👨‍🎓: I'm Currently Learning `Computer Science` & `Software Engineering`.
-- 🤔: I'm Currently Open For `Web Development` Job Opportunities.
+- 💻: I'm a `Senior` Web & Mobile Developer.
+- 👨‍💻: I ❤️ Building Software To Solve `Real-World Problems`.
+- 🤔: I'm Currently Open For `Web & Mobile Development` Job Opportunities.
 - 🤓: Always `Learning New Things`.
 - 💻: For more about me, visit my <a href="https://cleversamer.web.app/" target="__blank">portfolio website.</a>
 
