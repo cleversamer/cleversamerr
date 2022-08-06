@@ -5,11 +5,11 @@
 <br>
 
 ## 💁‍♂️:  About Me
-- 💻: I'm a `Senior` Web & Mobile Developer.
-- 👨‍💻: I ❤️ Building Software To Solve `Real-World Problems`.
-- 🤔: I'm Currently Open For `Web & Mobile Development` Job Opportunities.
-- 🤓: Always `Learning New Things`.
-- 💻: For more about me, visit my <a href="https://cleversamer.web.app/" target="__blank">portfolio website.</a>
+<p>
+  Hey there 👋
+  
+  I’m Samer, a senior full-stack engineer, creative coder, and self-proclaimed engineer who specializes in `back-end engineering`. I make it my mission to translate client's idea into fully working and pixel-perfect web & mobile applications that run blazing fast.
+</p>
 
 <br>
 
