@@ -6,7 +6,7 @@
 <br>
 
 
-<img src="https://raw.githubusercontent.com/cleversamerr/cleversamerr/main/img/github-header.png" alt="Header" width="100%" />
+<img src="https://raw.githubusercontent.com/cleversamerr/cleversamerr/main/img/header.png" alt="Header" width="100%" />
 
 <br>
 
