@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/cleversamerr/cleversamerr/main/img/header.png" alt="Header" width="100%" />
+<a href="https://cleversamer.web.app/" target="_blank">
+  <img src="https://raw.githubusercontent.com/cleversamerr/cleversamerr/main/img/header.png" alt="Header" width="100%" />
+</a>
 
 <br>
 
