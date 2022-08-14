@@ -8,7 +8,7 @@
 <p>
   Hey there 👋
   
-  I’m Samer, a senior full-stack engineer, creative coder, and self-proclaimed engineer specializing in back-end engineering. I make it my mission to translate clients' ideas into fully working and pixel-perfect web & mobile applications that run blazing fast.
+  I’m a full-stack JavaScript developer, creative coder, and self-proclaimed engineer specializing in `front-end development`. I make it my mission to translate clients' ideas into fully working and pixel-perfect web & mobile applications that run blazing fast.
 </p>
 
 <br>
