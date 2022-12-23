@@ -102,13 +102,6 @@
   </p>
 
 ----
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <img alt="cleversamerr" src="https://activity-graph.herokuapp.com/graph?username=cleversamerr&custom_title=Samer%27s%20Contribution%20Graph&theme=react-dark" />
-  <br/>
-
-
 <br/>
 
 ## :trophy: GitHub Profile Trophies
