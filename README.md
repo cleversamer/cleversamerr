@@ -6,7 +6,7 @@ Hi, I'm [Full Name], Senior Backend Engineer<a href="https://cleversamer.web.app
 
 ## 💁‍♂️:  About Me
 <p>
-  Hi, I'm Samer, Senior Backend Engineer
+  <strong>Hi, I'm Samer, Senior Backend Engineer</strong>
   
 I'm a passionate software developer with over [X years] of experience in designing and building complex backend systems that scale. I have a deep understanding of distributed systems, microservices architecture, and cloud-native technologies.
 </p>
