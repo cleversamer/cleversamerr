@@ -1,4 +1,4 @@
-<a href="https://cleversamer.web.app/" target="_blank">
+Hi, I'm [Full Name], Senior Backend Engineer<a href="https://cleversamer.web.app/" target="_blank">
   <img src="https://raw.githubusercontent.com/cleversamerr/cleversamerr/main/img/header.png" alt="Header Picture" width="100%" />
 </a>
 
@@ -6,9 +6,9 @@
 
 ## 💁‍♂️:  About Me
 <p>
-  Hey there 👋
+  Hi, I'm Samer, Senior Backend Engineer
   
-  I'm a full-stack JavaScript developer, creative coder, and self-proclaimed engineer specializing in `front-end development`. I make it my mission to translate clients' ideas into fully working and pixel-perfect web & mobile applications that run blazing fast.
+I'm a passionate software developer with over [X years] of experience in designing and building complex backend systems that scale. I have a deep understanding of distributed systems, microservices architecture, and cloud-native technologies.
 </p>
 
 <br>
