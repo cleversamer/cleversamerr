@@ -1,4 +1,4 @@
-Hi, I'm [Full Name], Senior Backend Engineer<a href="https://cleversamer.web.app/" target="_blank">
+<a href="https://cleversamer.web.app/" target="_blank">
   <img src="https://raw.githubusercontent.com/cleversamerr/cleversamerr/main/img/header.png" alt="Header Picture" width="100%" />
 </a>
 
