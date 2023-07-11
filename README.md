@@ -19,19 +19,9 @@ Throughout my career, I have honed my skills in various programming languages an
 
 With a solid foundation laid during my three years of intense university study, I possess a deep understanding of computer science principles and algorithms. This knowledge serves as the bedrock for my ability to design elegant and efficient backend solutions that drive seamless user experiences.
 
-### A Toolbox of Technologies
-
-I am well-versed in a wide array of technologies, including but not limited to:
-
-- Programming Languages: Java, Python, C++
-- Frameworks: Spring Boot, Django, Express.js
-- Databases: MySQL, MongoDB, PostgreSQL
-- Cloud Platforms: AWS, Azure
-- Version Control: Git
-
 ### Solving Complex Problems, Delivering Exceptional Results
 
-My true passion lies in solving complex problems and delivering exceptional results. I have a proven track record of collaborating with cross-functional teams, transforming requirements into high-performing backend systems, and ensuring seamless integration with frontend counterparts.
+My true passion lies in solving complex problems and delivering exceptional results. I have a proven track record of collaborating with cross-functional teams, transforming requirements into high-performing back-end systems, and ensuring seamless integration with front-end counterparts.
 
 ### Let's Create Outstanding Backend Experiences Together!
 
