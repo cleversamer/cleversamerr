@@ -1,5 +1,6 @@
 <!-- Background Banner -->
-![github-banner](https://raw.githubusercontent.com/cleversamerr/cleversamerr/main/banner-image.png)
+<!-- ![github-banner](https://raw.githubusercontent.com/cleversamerr/cleversamerr/main/banner-image.png) -->
+<img align="center" src="https://raw.githubusercontent.com/cleversamerr/cleversamerr/main/banner-image.png" alt="banner image" />
 
 <h2 align="left">Hey, I'm Samer <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/></h2>
 
