@@ -1,5 +1,5 @@
 <!-- Background Banner -->
-![github-banner]([https://ik.imagekit.io/ayushsoni1010/Website/github-banner_POJDoOZxu.png?updatedAt=1687334946673](https://github.com/cleversamerr/cleversamerr/blob/main/banner-image.png?raw=true))
+![github-banner]([[https://ik.imagekit.io/ayushsoni1010/Website/github-banner_POJDoOZxu.png?updatedAt=1687334946673](https://github.com/cleversamerr/cleversamerr/blob/main/banner-image.png?raw=true](https://raw.githubusercontent.com/cleversamerr/cleversamerr/main/banner-image.png)))
 
 <h2 align="left">Hey, I'm Samer <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/></h2>
 
