@@ -1,3 +1,6 @@
+<!-- Background Banner -->
+![github-banner]([https://ik.imagekit.io/ayushsoni1010/Website/github-banner_POJDoOZxu.png?updatedAt=1687334946673](https://github.com/cleversamerr/cleversamerr/blob/main/banner-image.png?raw=true))
+
 <h2 align="left">Hey, I'm Samer <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/></h2>
 
 <p>👨🏻‍💻This is Samer Alsaadawi, a passionate full-stack developer and devrel engineer with a love for open-source and UI designing. I'm specialized in building robust and scalable SaaS products, microservices, and design systems. With a strong grasp of frontend and backend architecture, I create intuitive designs for engaging user experiences.</p>
